@@ -1,10 +1,10 @@
-package com.cbt.configserverboot3;
+package com.cbt.configserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Configserverboot3ApplicationTests {
+class ConfigserverApplicationTests {
 
     //@Test
     void contextLoads() {
